@@ -1,2 +1,4 @@
-# monet-painter
-AI painter using GANs. Part of Kaggle's "GAN Getting Started" Competition: https://www.kaggle.com/competitions/gan-getting-started/overview
+# I’m Something of a Painter Myself (Use GANs to create art - will you be the next Monet?)
+Kaggle's [*GettingStarted Code Competition* for Generative Adversarial Networks (GANs)](https://www.kaggle.com/competitions/gan-getting-started/overview) requires us to build, train, and submit a deep-learning network for generating paintings in the style of *Monet*. This means that we must mimic the style of Monet, as they state more eloquently in the competition description:
+
+> We recognize the works of artists through their unique style, such as color choices or brush strokes. The “je ne sais quoi” of artists like Claude Monet can now be imitated with algorithms thanks to generative adversarial networks (GANs). In this getting started competition, you will bring that style to your photos or recreate the style from scratch! Computer vision has advanced tremendously in recent years and GANs are now capable of mimicking objects in a very convincing way. But creating museum-worthy masterpieces is thought of to be, well, more art than science. So can (data) science, in the form of GANs, trick classifiers into believing you’ve created a true Monet? That’s the challenge you’ll take on!
